@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PredictiveMaintenence</string>
+
+    <string name="btnDelId">btnParNO</string>
+
+    <string name="building">Building</string>
+    <string name="location">Location</string>
+    <string name="name">Name</string>
+    <string name="parameter">parameter<font color='#FF0000'>*</font></string>
+    <string name="unit">Unit<font color='#FF0000'>*</font></string>
+    <string name="monitor_reading_date">Monitor Reading Date<font color='#FF0000'>*</font></string>
+    <string name="monitor_class">Monitor Class<font color='#FF0000'>*</font></string>
+    <string name="monitor_type">Monitor Type<font color='#FF0000'>*</font></string>
+    <string name="allowed_low_level_value">Allowed Low Level Value<font color='#FF0000'>*</font></string>
+    <string name="allowed_high_level_value">Allowed High Level Value<font color='#FF0000'>*</font></string>
+    <string name="actual_value">Actual Value<font color='#FF0000'>*</font></string>
+    <string name="reading_delta">Reading Delta<font color='#FF0000'>*</font></string>
+    <string name="value">Value<font color='#FF0000'>*</font></string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="description">Description</string>
+    <string name="add_monitor">Add Monitor</string>
+    <string name="monitoring_points">Monitoring Points</string>
+    <string name="comment">Comment</string>
+    <string name="add_parameter">Add Parameter</string>
+    <string name="parameters">Parameters</string>
+    <string name="create_equipment">Create Equipment</string>
+    <string name="image">Image</string>
+    <string name="update">Update Equipment</string>
+
+</resources>
